@@ -844,6 +844,9 @@ main {
   .about-right img {
     width: 250px;
   }
+  .swipe-buttons{
+    width: 336px;
+  }
   .swiper {
     width: 30rem;
   }
